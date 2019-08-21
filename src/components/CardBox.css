@@ -1,0 +1,36 @@
+.CardBox {
+    background:#EBEBEB;
+    height: 500px;
+    width: 750px;
+    margin-left: 220px;
+}
+
+.Index {
+    float: right;
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.Name {
+    margin-bottom: 25px;
+    font-size: 30px;
+    text-decoration: underline
+}
+
+.Info {
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Movies {
+    font-size: 20px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.Buttons {
+    display: flex;
+
+}
+
